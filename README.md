@@ -1,4 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Finlandica&size=100&color=44F7F2&background=DBF4FF67&center=true&vCenter=true&width=1000&height=250&lines=Alex+Psitos;software+developer)](https://git.io/typing-svg)
 
+![]()  
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=psitosam&show_icons=true&theme=dark)](https://github.com/psitosam/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psitosam&layout=compact&theme=dark)](https://github.com/psitosam/github-readme-stats)
