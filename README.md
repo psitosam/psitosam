@@ -27,11 +27,12 @@ I am a backend developer trained at Turing School of Software Design (Cohort 220
   </br>
   - 🌱 I’m currently learning React by making a portfolio website
   - 💬 Ask me about anything related to Rails, RSpec, REST, GraphQL, or remodeling a kitchen
-  - 😄 I was a Firefighter and Paramedic in a former life
+  - 👨🏻‍🚒 I was a Firefighter and Paramedic in a former life 
   - ⚡ If I'm not coding, I'm probably playing guitar or reading sci-fi!
 </br>
 <h2> 🏗 &nbsp; Frameworks & Languages</h2> 
 </br>
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /> 
@@ -44,7 +45,7 @@ I am a backend developer trained at Turing School of Software Design (Cohort 220
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodeJS-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  
+</div>  
 </td><td valign="top" width="50%">
 
 
