@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Finlandica&size=100&color=44F7F2&background=DBF4FF67&center=true&vCenter=true&width=1000&height=250&lines=Alex+Psitos;software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Finlandica&size=100&color=33C7FF&background=B11818&center=true&vCenter=true&width=1000&height=250&lines=Alex+Psitos;software+developer)](https://git.io/typing-svg)
 
 ![]()  
 
