@@ -34,7 +34,7 @@ I am a backend developer trained at Turing School of Software Design (Cohort 220
 </td><td valign="top" width="50%">
 
 
-
+![Screenshot_2017-11-09-14-11-57](https://user-images.githubusercontent.com/95240894/181350280-4f835316-5422-419b-83f4-994c533a559a.png)
 
 
 
