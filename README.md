@@ -16,16 +16,34 @@
 <img src="https://img.shields.io/badge/my-Resume-orange" alt=resume style="margin-bottom: 5px; height: 28px; " />
 </a> 
 
+<br/>  
+
+
+<table><tr><td valign="top" width="50%">
+
+
+### About me  
+I am a backend developer trained at Turing School of Software Design (Cohort 2201). After a deep-dive into all things Ruby on Rails, I have branched out into other languages and frameworks.
+  </br>
+  - 🌱 I’m currently learning React by making a portfolio website
+  - 💬 Ask me about anything related to Rails, RSpec, REST, GraphQL, or remodeling a kitchen
+  - 😄 I was a Firefighter and Paramedic in a former life
+  - ⚡ If I'm not coding, I'm probably playing guitar or reading sci-fi!
+
+  
+</td><td valign="top" width="50%">
+
+
+
+
+
+
+</td></tr></table>
+<br />
+
+
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=psitosam&show_icons=true&theme=dark)](https://github.com/psitosam/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psitosam&layout=compact&theme=dark)](https://github.com/psitosam/github-readme-stats)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
