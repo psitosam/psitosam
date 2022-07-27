@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px;" />
 </a> 
 <a href="/Resume627Alex.pdf" target="_blank" download>
-<img src=/resume_badgeP.png alt=resume style="margin-bottom: 5px; height: 28px; " />
+<img src="https://img.shields.io/badge/my-Resume-orange" alt=resume style="margin-bottom: 5px; height: 28px; " />
 </a> 
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=psitosam&show_icons=true&theme=dark)](https://github.com/psitosam/github-readme-stats)
