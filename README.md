@@ -27,7 +27,7 @@
 ### About me  
 I am a backend developer trained at Turing School of Software Design (Cohort 2201). After a deep-dive into all things Ruby on Rails, I have branched out into other languages and frameworks.
   </br>
-  - 🌱 I’m currently learning React by making a portfolio website
+  - 🌱 I’m currently learning Python for backend applications
   - 💬 Ask me about anything related to Rails, RSpec, REST, GraphQL, or remodeling a kitchen
   - 👨🏻‍🚒 I was a Firefighter and Paramedic in a former life 
   - ⚡ If I'm not coding, I'm probably playing guitar or reading sci-fi!
