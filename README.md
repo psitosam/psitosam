@@ -17,6 +17,7 @@
 </a> 
 <a href="https://www.alexpsitos.dev/" target="_blank">
 <img src=/portfolio_badge1.png alt=portfolio style="margin-bottom: 5px; height: 28px; " />
+</a>
 <br/>  
 
 
