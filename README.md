@@ -12,7 +12,7 @@
 <a href="mailto:apsitos08@gmail.com?" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px;" />
 </a> 
-<a href="/Resume627Alex.pdf" target="_blank" download>
+<a href="https://github.com/psitosam/psitosam/files/9686102/Resume.9_28.pdf" target="_blank" download>
 <img src="https://img.shields.io/badge/my-Resume-orange" alt=resume style="margin-bottom: 5px; height: 28px; " />
 </a> 
 <a href="https://www.alexpsitos.dev/" target="_blank">
