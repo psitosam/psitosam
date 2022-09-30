@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/my-Resume-orange" alt=resume style="margin-bottom: 5px; height: 28px; " />
 </a> 
 <a href="https://www.alexpsitos.dev/" target="_blank">
-<img src=/portfolio_badge1.png alt=portfolio style="margin-bottom: 5px; height: 28px; " />
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt=portfolio style="margin-bottom: 5px; height: 28px; " />
 </a>
 <br/>  
 
