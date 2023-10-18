@@ -25,7 +25,7 @@
 
 
 ### About me  
-Turing graduate (BE 2201) and Data Analyst.
+Turing graduate (BE 2201) and Data Analytics Engineer.
   </br>
   - 🌱 Interested in machine learning
   - 💬 Ask me about anything related to Rails, RSpec, REST, GraphQL, or remodeling a kitchen
