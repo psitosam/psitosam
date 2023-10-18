@@ -25,12 +25,12 @@
 
 
 ### About me  
-Turing graduate (BE 2201) and Data Analytics Engineer.
+Turing School of Software Design graduate (BE 2201) and Data Analytics Engineer.
   </br>
-  - 🌱 Interested in machine learning
-  - 💬 Ask me about anything related to Rails, RSpec, REST, GraphQL, or remodeling a kitchen
+  - 🌱 Currently working on using Snowflake, Meltano and dbt to build data pipelines and Langchain to build an automated sales workflow
+  - 💬 Excited to talk about ML, Data Vault, and Data Governance
   - 👨🏻‍🚒 I was a Firefighter and Paramedic in a former life 
-  - ⚡ If I'm not coding, I'm probably playing guitar or reading sci-fi!
+  - ⚡ If I'm not coding, I'm probably playing guitar or reading obscure sci-fi
 </br>
 <h2> 🏗 &nbsp; Frameworks & Languages</h2> 
 </br>
