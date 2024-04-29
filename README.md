@@ -25,7 +25,7 @@
 
 
 ### About me  
-Turing School of Software Design graduate (BE 2201) and Data Analytics Engineer.
+Software Developer turned Data Professional.
   </br>
   - 🌱 Currently working on using Snowflake, Meltano and dbt to build data pipelines and Langchain to build an automated sales workflow
   - 💬 Excited to talk about ML, Data Vault 2.0, and Data Governance
